@@ -47,7 +47,7 @@ $preset = @(
 	"DisableStickyKeys",
 	"HideTaskbarSearchBox",
 	# "HideTaskView",
-	"ShowSmallTaskbarIcons",
+	"ShowLargeTaskbarIcons",
 	"HideTaskbarTitles",
 	"ShowTrayIcons",
 	"ShowKnownExtensions",
