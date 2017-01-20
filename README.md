@@ -1,5 +1,8 @@
 ## Description
 
+Forked from: <https://github.com/Disassembler0/Win10-Initial-Setup-Script>
+Adjusted defaults for personal use.
+
 This is a PowerShell script for automation of routine tasks done after fresh installations of Windows 10. This is by no means any complete set of all existing Windows tweaks and neither is it another "antispying" type of script. It's simply a setting which I like to use and which in my opinion make the system less obtrusive.
 
 This repository has been originaly created as complementary to article https://www.dasm.cz/clanek/jak-z-windows-10-udelat-desktopovy-system (written in czech) which explains the respective snippets a bit more in detail. The article was last updated on 2016-08-15 and will not be updated further. All development and discussion has been moved here.
